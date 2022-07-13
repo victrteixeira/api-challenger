@@ -1,9 +1,6 @@
 ﻿using System.Data;
-using System.Security.Authentication;
-using AutoMapper;
 using Goomer_Lista_Rango.Data;
 using Goomer_Lista_Rango.DTOs;
-using Goomer_Lista_Rango.DTOs.Promotion;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using Goomer_Lista_Rango.Data;
+﻿using Goomer_Lista_Rango.Data;
 using Goomer_Lista_Rango.DTOs;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;

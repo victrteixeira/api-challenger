@@ -1,5 +1,4 @@
 ﻿using System.Globalization;
-using AutoMapper;
 using Goomer_Lista_Rango.Data;
 using Goomer_Lista_Rango.DTOs.Promotion;
 using Microsoft.AspNetCore.Mvc;
